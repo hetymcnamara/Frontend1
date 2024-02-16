@@ -1,0 +1,12 @@
+.loading-page {
+  background: linear-gradient(
+    109.6deg,
+    rgb(204, 228, 247) 11.2%,
+    rgb(237, 246, 250) 100.2%
+  );
+}
+
+.loading-page article {
+  font-weight: 400;
+  padding: 5em;
+}
